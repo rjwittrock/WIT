@@ -1,7 +1,7 @@
 ### WIT
 WIT is a software tool for optimal and near-optimal allocation of scarce resources, when the resources are utilized in pre-determined sets of material parts (as in a bill of material) and/or sets of capacities (such as machine processing capacity).
 
-WIT is a more actively maintained version of IBM/CMMPPT, from which this repository is forked.
+WIT is intended to be a more actively maintained version of IBM/CMMPPT, from which this repository is forked.
 
 This repository contains the WIT source code, testing code and data, documentation, and some application programs.
 
@@ -27,9 +27,6 @@ Before IBM/CMMPPT became open-source, it was called "WIT". Consequently, "wit" a
 * **wit-sa-test:**
   * Data and scripts for testing WIT in Stand-Alone Executable mode.
   * Status: Maintained
-* **wit-data:**
-  * A collection of example data files for WIT
-  * Status: No need to maintain; they're just data files.
 * **samples:**
   * Small example WIT application programs.
   * Status: Mixed

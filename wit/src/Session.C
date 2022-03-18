@@ -95,7 +95,7 @@
 //------------------------------------------------------------------------------
 
 const char * const WitSession::proprietaryStmt_ =
-   "\n"
+
    "=============================================================\n"
    "Licensed Materials - Property of IBM\n"
    "\n"
@@ -141,8 +141,11 @@ WitSession::~WitSession ()
 void WitSession::writeHeading (FILE * outFile)
    {
    fprintf (outFile,
+      "=============================================================\n"
+      "WIT\n"
+      "\n"
+      "Based On:\n"
       "%s\n"
-      "Constrained Materials Management and Production Planning Tool\n"
       "Release         %s\n"
       "Build Date:     %s\n"
       "Build Type:     %s\n"

@@ -1,4 +1,7 @@
+=============================================================
+WIT
 
+Based On:
 =============================================================
 Licensed Materials - Property of IBM
 
@@ -11,14 +14,13 @@ Use, duplication or disclosure restricted by
 GSA ADP Schedule Contract with IBM Corp.
 =============================================================
 
-Constrained Materials Management and Production Planning Tool
 Release         9.0
-Build Date:     Sep 14 2020
+Build Date:     Mar 17 2022
 Build Type:     debug
 Platform:       winsdk
 COIN  Embedded? Yes
 CPLEX Embedded? Yes
-Run Started At: Mon Sep 14 15:56:35 2020
+Run Started At: Fri Mar 18 08:29:42 2022
 
 Control Parameter Input File: heur-spl3.par
 
@@ -276,7 +278,7 @@ Writing the comprehensive implosion solution.
 This WitRun is now in an unpostprocessed state.
 
 CPU Times:
-   Input Reading time:             0.01 seconds.
+   Input Reading time:             0.00 seconds.
    Preprocessing time:             0.00 seconds.
    Heuristic time:                 0.00 seconds.
    Postprocessing time:            0.00 seconds.
@@ -286,7 +288,7 @@ CPU Times:
    Memory Deallocation time:       0.00 seconds.
    Other CPU time:                 0.01 seconds.
    Standard CPU time:              0.02 seconds.
-   Non-default Output time:        0.01 seconds.
+   Non-default Output time:        0.00 seconds.
    Total CPU time:                 0.02 seconds.
 
 Normal termination.

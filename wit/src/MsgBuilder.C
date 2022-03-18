@@ -401,8 +401,11 @@ void WitMsgBuilder::buildMsgs ()
       "headingMsg",
       97,
       info_,
+      "=============================================================\n"
+      "WIT\n"
+      "\n"
+      "Based On:\n"
       "%1$s\n"
-      "Constrained Materials Management and Production Planning Tool\n"
       "Release         %2$s\n"
       "Build Date:     %3$s\n"
       "Build Type:     %4$s\n"

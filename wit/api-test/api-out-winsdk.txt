@@ -25,12 +25,12 @@ GSA ADP Schedule Contract with IBM Corp.
 
 Constrained Materials Management and Production Planning Tool
 Release         9.0
-Build Date:     Sep 14 2020
+Build Date:     Mar 17 2022
 Build Type:     debug
 Platform:       winsdk
 COIN  Embedded? Yes
 CPLEX Embedded? Yes
-Run Started At: Mon Sep 14 15:30:05 2020
+Run Started At: Thu Mar 17 21:22:43 2022
 
 Reading the control parameters.
 Reading the input data.
@@ -90,12 +90,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:05 2020
+         Run Started At: Thu Mar 17 21:22:43 2022
 
 
 WIT0098I WIT function witSetWit34Compatible entered.
@@ -2522,12 +2522,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:05 2020
+         Run Started At: Thu Mar 17 21:22:43 2022
 
 
 WIT0468I Formatted Output of Input Data
@@ -4556,12 +4556,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:05 2020
+         Run Started At: Thu Mar 17 21:22:43 2022
 
 
 WIT0098I WIT function witSetWit34Compatible entered.
@@ -5405,12 +5405,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:05 2020
+         Run Started At: Thu Mar 17 21:22:43 2022
 
 
 WIT0098I WIT function witSetWit34Compatible entered.
@@ -6147,12 +6147,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:06 2020
+         Run Started At: Thu Mar 17 21:22:44 2022
 
 
 WIT0098I WIT function witReadData entered.
@@ -6342,12 +6342,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:06 2020
+         Run Started At: Thu Mar 17 21:22:44 2022
 
 
 WIT0098I WIT function witGetNPeriods entered.
@@ -6381,12 +6381,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:06 2020
+         Run Started At: Thu Mar 17 21:22:44 2022
 
 
 WIT0098I WIT function witSetNPeriods entered.
@@ -6408,12 +6408,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:06 2020
+         Run Started At: Thu Mar 17 21:22:44 2022
 
 
 WIT0098I WIT function witSetNPeriods entered.
@@ -6763,12 +6763,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:06 2020
+         Run Started At: Thu Mar 17 21:22:44 2022
 
 
 WIT0098I WIT function witSetHighPrecisionWD entered.
@@ -6797,12 +6797,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:06 2020
+         Run Started At: Thu Mar 17 21:22:44 2022
 
 
 WIT0098I WIT function witReadData entered.
@@ -6850,12 +6850,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:06 2020
+         Run Started At: Thu Mar 17 21:22:44 2022
 
 
 WIT0098I WIT function witSetWit34Compatible entered.
@@ -7172,12 +7172,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:06 2020
+         Run Started At: Thu Mar 17 21:22:44 2022
 
 
 WIT0098I WIT function witSetNPeriods entered.
@@ -7266,12 +7266,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:06 2020
+         Run Started At: Thu Mar 17 21:22:44 2022
 
 
 WIT0098I WIT function witSetNPeriods entered.
@@ -7317,12 +7317,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:06 2020
+         Run Started At: Thu Mar 17 21:22:44 2022
 
 
 WIT0098I WIT function witAddPart entered.
@@ -7416,12 +7416,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:06 2020
+         Run Started At: Thu Mar 17 21:22:44 2022
 
 
 WIT0098I WIT function witReadData entered.
@@ -7537,12 +7537,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:06 2020
+         Run Started At: Thu Mar 17 21:22:44 2022
 
 
 WIT0098I WIT function witReadData entered.
@@ -7658,12 +7658,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:06 2020
+         Run Started At: Thu Mar 17 21:22:44 2022
 
 
 WIT0098I WIT function witReadData entered.
@@ -7775,12 +7775,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:06 2020
+         Run Started At: Thu Mar 17 21:22:44 2022
 
 
 WIT0098I WIT function witReadData entered.
@@ -7892,12 +7892,12 @@ GSA ADP Schedule Contract with IBM Corp.
 
 Constrained Materials Management and Production Planning Tool
 Release         9.0
-Build Date:     Sep 14 2020
+Build Date:     Mar 17 2022
 Build Type:     debug
 Platform:       winsdk
 COIN  Embedded? Yes
 CPLEX Embedded? Yes
-Run Started At: Mon Sep 14 15:30:06 2020
+Run Started At: Thu Mar 17 21:22:44 2022
 
 
 WIT function witSetWit34Allowed entered.
@@ -8072,12 +8072,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:06 2020
+         Run Started At: Thu Mar 17 21:22:44 2022
 
 Preprocessing.
 
@@ -8097,12 +8097,12 @@ GSA ADP Schedule Contract with IBM Corp.
 
 Constrained Materials Management and Production Planning Tool
 Release         9.0
-Build Date:     Sep 14 2020
+Build Date:     Mar 17 2022
 Build Type:     debug
 Platform:       winsdk
 COIN  Embedded? Yes
 CPLEX Embedded? Yes
-Run Started At: Mon Sep 14 15:30:06 2020
+Run Started At: Thu Mar 17 21:22:44 2022
 
 
 WIT0098I WIT function witWriteData entered.
@@ -8129,12 +8129,12 @@ GSA ADP Schedule Contract with IBM Corp.
 
 Constrained Materials Management and Production Planning Tool
 Release         9.0
-Build Date:     Sep 14 2020
+Build Date:     Mar 17 2022
 Build Type:     debug
 Platform:       winsdk
 COIN  Embedded? Yes
 CPLEX Embedded? Yes
-Run Started At: Mon Sep 14 15:30:06 2020
+Run Started At: Thu Mar 17 21:22:44 2022
 
 
 Formatted Output of Input Data
@@ -9331,12 +9331,12 @@ GSA ADP Schedule Contract with IBM Corp.
 
 Constrained Materials Management and Production Planning Tool
 Release         9.0
-Build Date:     Sep 14 2020
+Build Date:     Mar 17 2022
 Build Type:     debug
 Platform:       winsdk
 COIN  Embedded? Yes
 CPLEX Embedded? Yes
-Run Started At: Mon Sep 14 15:30:06 2020
+Run Started At: Thu Mar 17 21:22:44 2022
 
 
 Formatted Output of Input Data
@@ -9874,12 +9874,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:07 2020
+         Run Started At: Thu Mar 17 21:22:44 2022
 
 
 WIT0098I WIT function witReadData entered.
@@ -10033,12 +10033,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:07 2020
+         Run Started At: Thu Mar 17 21:22:44 2022
 
 
 WIT0098I WIT function witReadData entered.
@@ -10175,12 +10175,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:08 2020
+         Run Started At: Thu Mar 17 21:22:46 2022
 
 
 WIT0098I WIT function witReadData entered.
@@ -10333,12 +10333,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:08 2020
+         Run Started At: Thu Mar 17 21:22:46 2022
 
 
 WIT0098I WIT function witReadData entered.
@@ -10460,12 +10460,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:09 2020
+         Run Started At: Thu Mar 17 21:22:47 2022
 
 
 WIT0098I WIT function witSetNPeriods entered.
@@ -10544,12 +10544,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:09 2020
+         Run Started At: Thu Mar 17 21:22:47 2022
 
 
 WIT0098I WIT function witSetNPeriods entered.
@@ -10863,12 +10863,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:09 2020
+         Run Started At: Thu Mar 17 21:22:47 2022
 
 
 WIT0098I WIT function witAddPart entered.
@@ -11083,12 +11083,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:09 2020
+         Run Started At: Thu Mar 17 21:22:47 2022
 
 
 WIT0098I WIT function witAddPart entered.
@@ -11171,12 +11171,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:09 2020
+         Run Started At: Thu Mar 17 21:22:47 2022
 
 
 WIT0098I WIT function witAddPart entered.
@@ -11335,12 +11335,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:09 2020
+         Run Started At: Thu Mar 17 21:22:47 2022
 
 
 WIT0098I WIT function witSetNPeriods entered.
@@ -11430,12 +11430,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:09 2020
+         Run Started At: Thu Mar 17 21:22:47 2022
 
 
 WIT0098I WIT function witAddPart entered.
@@ -11497,12 +11497,12 @@ GSA ADP Schedule Contract with IBM Corp.
 
 Constrained Materials Management and Production Planning Tool
 Release         9.0
-Build Date:     Sep 14 2020
+Build Date:     Mar 17 2022
 Build Type:     debug
 Platform:       winsdk
 COIN  Embedded? Yes
 CPLEX Embedded? Yes
-Run Started At: Mon Sep 14 15:30:09 2020
+Run Started At: Thu Mar 17 21:22:47 2022
 
 
 WIT function witSetNPeriods entered.
@@ -11705,12 +11705,12 @@ GSA ADP Schedule Contract with IBM Corp.
 
 Constrained Materials Management and Production Planning Tool
 Release         9.0
-Build Date:     Sep 14 2020
+Build Date:     Mar 17 2022
 Build Type:     debug
 Platform:       winsdk
 COIN  Embedded? Yes
 CPLEX Embedded? Yes
-Run Started At: Mon Sep 14 15:30:09 2020
+Run Started At: Thu Mar 17 21:22:47 2022
 
 
 Formatted Output of Input Data
@@ -12520,12 +12520,12 @@ GSA ADP Schedule Contract with IBM Corp.
 
 Constrained Materials Management and Production Planning Tool
 Release         9.0
-Build Date:     Sep 14 2020
+Build Date:     Mar 17 2022
 Build Type:     debug
 Platform:       winsdk
 COIN  Embedded? Yes
 CPLEX Embedded? Yes
-Run Started At: Mon Sep 14 15:30:09 2020
+Run Started At: Thu Mar 17 21:22:47 2022
 
 
 WIT function witReadData entered.
@@ -12567,12 +12567,12 @@ GSA ADP Schedule Contract with IBM Corp.
 
 Constrained Materials Management and Production Planning Tool
 Release         9.0
-Build Date:     Sep 14 2020
+Build Date:     Mar 17 2022
 Build Type:     debug
 Platform:       winsdk
 COIN  Embedded? Yes
 CPLEX Embedded? Yes
-Run Started At: Mon Sep 14 15:30:09 2020
+Run Started At: Thu Mar 17 21:22:47 2022
 
 
 WIT function witCopyData entered.
@@ -12591,12 +12591,12 @@ GSA ADP Schedule Contract with IBM Corp.
 
 Constrained Materials Management and Production Planning Tool
 Release         9.0
-Build Date:     Sep 14 2020
+Build Date:     Mar 17 2022
 Build Type:     debug
 Platform:       winsdk
 COIN  Embedded? Yes
 CPLEX Embedded? Yes
-Run Started At: Mon Sep 14 15:30:09 2020
+Run Started At: Thu Mar 17 21:22:47 2022
 
 
 Entering stochastic mode.
@@ -12712,12 +12712,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:10 2020
+         Run Started At: Thu Mar 17 21:22:47 2022
 
 
 WIT0098I WIT function witSetNPeriods entered.
@@ -12835,12 +12835,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:10 2020
+         Run Started At: Thu Mar 17 21:22:47 2022
 
 
 WIT0468I Formatted Output of Input Data
@@ -13361,12 +13361,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:10 2020
+         Run Started At: Thu Mar 17 21:22:47 2022
 
 
 WIT0098I WIT function witSetPreferCoin entered.
@@ -13565,12 +13565,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:10 2020
+         Run Started At: Thu Mar 17 21:22:47 2022
 
 WIT0155I Preprocessing.
 
@@ -13704,12 +13704,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:10 2020
+         Run Started At: Thu Mar 17 21:22:47 2022
 
 
 WIT0098I WIT function witSetPreferCoin entered.
@@ -13908,12 +13908,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:10 2020
+         Run Started At: Thu Mar 17 21:22:47 2022
 
 WIT0155I Preprocessing.
 
@@ -14046,12 +14046,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:10 2020
+         Run Started At: Thu Mar 17 21:22:48 2022
 
 
 WIT0098I WIT function witSetNPeriods entered.
@@ -14247,12 +14247,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:15 2020
+         Run Started At: Thu Mar 17 21:22:51 2022
 
 
 WIT0098I WIT function witSetTitle entered.
@@ -15373,12 +15373,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:15 2020
+         Run Started At: Thu Mar 17 21:22:51 2022
 
 
 WIT0468I Formatted Output of Input Data
@@ -16207,12 +16207,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:15 2020
+         Run Started At: Thu Mar 17 21:22:51 2022
 
 
 WIT0468I Formatted Output of Input Data
@@ -17536,12 +17536,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:15 2020
+         Run Started At: Thu Mar 17 21:22:51 2022
 
 
 WIT0468I Formatted Output of Input Data
@@ -18793,12 +18793,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:16 2020
+         Run Started At: Thu Mar 17 21:22:52 2022
 
 
 WIT0098I WIT function witSetNPeriods entered.
@@ -18993,12 +18993,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:15 2020
+         Run Started At: Thu Mar 17 21:22:51 2022
 
 
 WIT0468I Formatted Output of Input Data
@@ -19399,12 +19399,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:15 2020
+         Run Started At: Thu Mar 17 21:22:51 2022
 
 
 WIT0468I Formatted Output of Input Data
@@ -19761,12 +19761,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:15 2020
+         Run Started At: Thu Mar 17 21:22:51 2022
 
 
 WIT0098I WIT function witSetNPeriods entered.
@@ -19990,12 +19990,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:15 2020
+         Run Started At: Thu Mar 17 21:22:51 2022
 
 
 WIT0098I WIT function witSetNPeriods entered.
@@ -20030,12 +20030,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:15 2020
+         Run Started At: Thu Mar 17 21:22:51 2022
 
 
 WIT0468I Formatted Output of Input Data
@@ -20263,12 +20263,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:15 2020
+         Run Started At: Thu Mar 17 21:22:51 2022
 
 
 WIT0098I WIT function witGetDevMode entered.
@@ -20305,12 +20305,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:21 2020
+         Run Started At: Thu Mar 17 21:22:55 2022
 
 
 WIT0098I WIT function witSetNPeriods entered.
@@ -20548,12 +20548,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:28 2020
+         Run Started At: Thu Mar 17 21:23:00 2022
 
 
 WIT0098I WIT function witAddBomEntry entered.
@@ -20594,12 +20594,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:28 2020
+         Run Started At: Thu Mar 17 21:23:00 2022
 
 
 WIT0098I WIT function witAddBomEntry entered.
@@ -20646,12 +20646,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:28 2020
+         Run Started At: Thu Mar 17 21:23:01 2022
 
 
 WIT0098I WIT function witAddBomEntry entered.
@@ -20700,12 +20700,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:29 2020
+         Run Started At: Thu Mar 17 21:23:01 2022
 
 
 WIT0098I WIT function witAddBomEntry entered.
@@ -20759,12 +20759,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:29 2020
+         Run Started At: Thu Mar 17 21:23:01 2022
 
 
 WIT0098I WIT function witAddBomEntry entered.
@@ -20810,12 +20810,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:29 2020
+         Run Started At: Thu Mar 17 21:23:01 2022
 
 
 WIT0098I WIT function witInterpretDevCmd entered.
@@ -20854,12 +20854,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:30 2020
+         Run Started At: Thu Mar 17 21:23:02 2022
 
 
 WIT0098I WIT function witSetMesgThrowErrorExc entered.
@@ -20914,12 +20914,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:30 2020
+         Run Started At: Thu Mar 17 21:23:02 2022
 
 
 WIT0098I WIT function witSetMesgStopRunning entered.
@@ -20979,12 +20979,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:30 2020
+         Run Started At: Thu Mar 17 21:23:02 2022
 
 
 WIT0098I WIT function witSetWbounds entered.
@@ -21011,12 +21011,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:30 2020
+         Run Started At: Thu Mar 17 21:23:02 2022
 
 WIT0155I Preprocessing.
 
@@ -21064,12 +21064,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:31 2020
+         Run Started At: Thu Mar 17 21:23:02 2022
 
 
 WIT0098I WIT function witSetMesgStopRunning entered.
@@ -21134,12 +21134,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:31 2020
+         Run Started At: Thu Mar 17 21:23:03 2022
 
 
 WIT0098I WIT function witSetMesgStopRunning entered.
@@ -21178,12 +21178,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:31 2020
+         Run Started At: Thu Mar 17 21:23:03 2022
 
 
 WIT0098I WIT function witReadData entered.
@@ -21223,12 +21223,12 @@ GSA ADP Schedule Contract with IBM Corp.
 
 Constrained Materials Management and Production Planning Tool
 Release         9.0
-Build Date:     Sep 14 2020
+Build Date:     Mar 17 2022
 Build Type:     debug
 Platform:       winsdk
 COIN  Embedded? Yes
 CPLEX Embedded? Yes
-Run Started At: Mon Sep 14 15:30:31 2020
+Run Started At: Thu Mar 17 21:23:03 2022
 
 
 WIT0879S witExecStandAlone was called after either the stopRunning attribute or
@@ -21279,12 +21279,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:32 2020
+         Run Started At: Thu Mar 17 21:23:03 2022
 
 
 WIT0098I WIT function witAddPart entered.
@@ -21334,12 +21334,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:32 2020
+         Run Started At: Thu Mar 17 21:23:04 2022
 
 
 WIT0098I WIT function witFinishExtOpt entered.
@@ -21389,12 +21389,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:33 2020
+         Run Started At: Thu Mar 17 21:23:04 2022
 
 
 SEVERE ERROR encountered by WIT:
@@ -21429,12 +21429,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:33 2020
+         Run Started At: Thu Mar 17 21:23:04 2022
 
 
 WIT0098I WIT function witSetAccAfterOptImp entered.
@@ -21473,12 +21473,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:34 2020
+         Run Started At: Thu Mar 17 21:23:05 2022
 
 
 WIT0098I WIT function witAddPart entered.
@@ -21533,12 +21533,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:34 2020
+         Run Started At: Thu Mar 17 21:23:05 2022
 
 
 WIT0098I WIT function witInitialize entered.
@@ -21557,12 +21557,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:34 2020
+         Run Started At: Thu Mar 17 21:23:05 2022
 
 
 WIT0098I WIT function witAddPart entered.
@@ -21612,12 +21612,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:34 2020
+         Run Started At: Thu Mar 17 21:23:05 2022
 
 
 WIT0098I WIT function witAddPart entered.
@@ -21667,12 +21667,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:35 2020
+         Run Started At: Thu Mar 17 21:23:05 2022
 
 
 WIT0098I WIT function witCopyData entered.
@@ -21706,12 +21706,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:35 2020
+         Run Started At: Thu Mar 17 21:23:05 2022
 
 
 WIT0098I WIT function witAddPart entered.
@@ -21762,12 +21762,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:35 2020
+         Run Started At: Thu Mar 17 21:23:06 2022
 
 
 WIT0098I WIT function witAddPart entered.
@@ -21822,12 +21822,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:36 2020
+         Run Started At: Thu Mar 17 21:23:06 2022
 
 
 WIT0098I WIT function witCopyPartData entered.
@@ -21862,12 +21862,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:36 2020
+         Run Started At: Thu Mar 17 21:23:06 2022
 
 
 WIT0098I WIT function witSetMesgStopRunning entered.
@@ -21890,12 +21890,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:36 2020
+         Run Started At: Thu Mar 17 21:23:06 2022
 
 
 WIT0098I WIT function witAddPart entered.
@@ -21955,12 +21955,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:37 2020
+         Run Started At: Thu Mar 17 21:23:06 2022
 
 
 WIT0098I WIT function witSetNPeriods entered.
@@ -21985,12 +21985,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:37 2020
+         Run Started At: Thu Mar 17 21:23:07 2022
 
 
 WIT0098I WIT function witAddPart entered.
@@ -22031,12 +22031,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:37 2020
+         Run Started At: Thu Mar 17 21:23:07 2022
 
 
 WIT0098I WIT function witAddOperation entered.
@@ -22089,12 +22089,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:37 2020
+         Run Started At: Thu Mar 17 21:23:07 2022
 
 
 WIT0098I WIT function witStochImplode entered.
@@ -22128,12 +22128,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:37 2020
+         Run Started At: Thu Mar 17 21:23:07 2022
 
 
 WIT0098I WIT function witSetPreferCoin entered.
@@ -22209,12 +22209,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:38 2020
+         Run Started At: Thu Mar 17 21:23:07 2022
 
 
 WIT0098I WIT function witAddPart entered.
@@ -22260,12 +22260,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:38 2020
+         Run Started At: Thu Mar 17 21:23:08 2022
 
 
 WIT0098I WIT function witSetPreferCoin entered.
@@ -22354,12 +22354,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:39 2020
+         Run Started At: Thu Mar 17 21:23:08 2022
 
 
 WIT0098I WIT function witAddOperation entered.
@@ -22392,12 +22392,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:39 2020
+         Run Started At: Thu Mar 17 21:23:08 2022
 
 
 WIT0098I WIT function witAddOperation entered.
@@ -22435,12 +22435,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:39 2020
+         Run Started At: Thu Mar 17 21:23:08 2022
 
 
 WIT0098I WIT function witSetPreferCoin entered.
@@ -22527,12 +22527,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:39 2020
+         Run Started At: Thu Mar 17 21:23:08 2022
 
 
 WIT0098I WIT function witAddPart entered.
@@ -22574,12 +22574,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:40 2020
+         Run Started At: Thu Mar 17 21:23:09 2022
 
 
 WIT0098I WIT function witAddPart entered.
@@ -22627,12 +22627,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:40 2020
+         Run Started At: Thu Mar 17 21:23:09 2022
 
 
 WIT0098I WIT function witAddPart entered.
@@ -22678,12 +22678,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:40 2020
+         Run Started At: Thu Mar 17 21:23:09 2022
 
 
 WIT0098I WIT function witSetNPeriods entered.
@@ -22788,12 +22788,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:40 2020
+         Run Started At: Thu Mar 17 21:23:09 2022
 
 WIT0155I Preprocessing.
 
@@ -22816,12 +22816,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:40 2020
+         Run Started At: Thu Mar 17 21:23:09 2022
 
 
 WIT0468I Formatted Output of Input Data
@@ -23392,12 +23392,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:41 2020
+         Run Started At: Thu Mar 17 21:23:09 2022
 
 
 WIT0098I WIT function witAddPart entered.
@@ -23439,12 +23439,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:41 2020
+         Run Started At: Thu Mar 17 21:23:10 2022
 
 
 WIT0098I WIT function witAddOperation entered.
@@ -23491,12 +23491,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:41 2020
+         Run Started At: Thu Mar 17 21:23:10 2022
 
 
 WIT0098I WIT function witAddPart entered.
@@ -23547,19 +23547,19 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:42 2020
+         Run Started At: Thu Mar 17 21:23:10 2022
 
 
 WIT0098I WIT function witIssueFatalMesg entered.
 
 WIT0543F Assertion failure:
             Source File: ../src/WitRun.C
-            Line #:      396
+            Line #:      400
             Assertion:   false
 
 WIT0701I The above message indicates that there is a programming error in WIT.
@@ -23590,12 +23590,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:42 2020
+         Run Started At: Thu Mar 17 21:23:10 2022
 
 
 WIT0098I WIT function witSetWit34Allowed entered.
@@ -23634,12 +23634,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:42 2020
+         Run Started At: Thu Mar 17 21:23:11 2022
 
 
 WIT0098I WIT function witSetCurrentObjective entered.
@@ -23675,12 +23675,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:43 2020
+         Run Started At: Thu Mar 17 21:23:11 2022
 
 
 WIT0098I WIT function witSetMultiObjMode entered.
@@ -23718,12 +23718,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:43 2020
+         Run Started At: Thu Mar 17 21:23:11 2022
 
 
 WIT0098I WIT function witSetMultiObjMode entered.
@@ -23764,12 +23764,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:43 2020
+         Run Started At: Thu Mar 17 21:23:11 2022
 
 
 WIT0098I WIT function witSetMultiObjMode entered.
@@ -23811,12 +23811,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:44 2020
+         Run Started At: Thu Mar 17 21:23:11 2022
 
 
 WIT0098I WIT function witSetMultiObjMode entered.
@@ -23858,12 +23858,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:44 2020
+         Run Started At: Thu Mar 17 21:23:12 2022
 
 
 WIT0098I WIT function witSetMultiObjMode entered.
@@ -23890,12 +23890,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:44 2020
+         Run Started At: Thu Mar 17 21:23:12 2022
 
 
 WIT0098I WIT function witAddOperation entered.
@@ -23933,12 +23933,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:44 2020
+         Run Started At: Thu Mar 17 21:23:12 2022
 
 
 WIT0098I WIT function witAddPart entered.
@@ -23960,12 +23960,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:44 2020
+         Run Started At: Thu Mar 17 21:23:12 2022
 
 
 WIT0098I WIT function witSetMultiObjMode entered.
@@ -24006,12 +24006,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:45 2020
+         Run Started At: Thu Mar 17 21:23:12 2022
 
 
 WIT0098I WIT function witSetNPeriods entered.
@@ -24330,12 +24330,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:45 2020
+         Run Started At: Thu Mar 17 21:23:12 2022
 
 
 WIT0098I WIT function witSetSkipFailures entered.
@@ -24377,12 +24377,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:45 2020
+         Run Started At: Thu Mar 17 21:23:13 2022
 
 
 WIT0098I WIT function witSetSelectionRecovery entered.
@@ -24466,12 +24466,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:46 2020
+         Run Started At: Thu Mar 17 21:23:13 2022
 
 
 WIT0098I WIT function witSetSelectionRecovery entered.
@@ -24557,12 +24557,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:46 2020
+         Run Started At: Thu Mar 17 21:23:13 2022
 
 
 WIT0098I WIT function witSetSelectionRecovery entered.
@@ -24650,12 +24650,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:47 2020
+         Run Started At: Thu Mar 17 21:23:13 2022
 
 
 WIT0098I WIT function witSetSelectionRecovery entered.
@@ -24729,12 +24729,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:47 2020
+         Run Started At: Thu Mar 17 21:23:14 2022
 
 
 WIT0098I WIT function witSetSelectionRecovery entered.
@@ -24823,12 +24823,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:47 2020
+         Run Started At: Thu Mar 17 21:23:14 2022
 
 
 WIT0098I WIT function witSetSelectionRecovery entered.
@@ -24954,12 +24954,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:48 2020
+         Run Started At: Thu Mar 17 21:23:14 2022
 
 
 WIT0098I WIT function witSetSelectionRecovery entered.
@@ -25099,12 +25099,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:48 2020
+         Run Started At: Thu Mar 17 21:23:14 2022
 
 
 WIT0098I WIT function witSetSelectionRecovery entered.
@@ -25193,12 +25193,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:48 2020
+         Run Started At: Thu Mar 17 21:23:15 2022
 
 
 WIT0098I WIT function witSetSelectionRecovery entered.
@@ -25300,12 +25300,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:49 2020
+         Run Started At: Thu Mar 17 21:23:15 2022
 
 
 WIT0098I WIT function witSetSelectionRecovery entered.
@@ -25422,12 +25422,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:49 2020
+         Run Started At: Thu Mar 17 21:23:15 2022
 
 
 WIT0098I WIT function witSetSelectionRecovery entered.
@@ -25530,12 +25530,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:49 2020
+         Run Started At: Thu Mar 17 21:23:15 2022
 
 
 WIT0098I WIT function witSetSelectionRecovery entered.
@@ -25646,12 +25646,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:50 2020
+         Run Started At: Thu Mar 17 21:23:16 2022
 
 
 WIT0098I WIT function witAddIntCplexParSpec entered.
@@ -25684,12 +25684,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:50 2020
+         Run Started At: Thu Mar 17 21:23:16 2022
 
 
 WIT0098I WIT function witAddOperation entered.
@@ -25755,12 +25755,12 @@ WIT0097I
          
          Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 17 2022
          Build Type:     debug
          Platform:       winsdk
          COIN  Embedded? Yes
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 15:30:50 2020
+         Run Started At: Thu Mar 17 21:23:16 2022
 
 
 WIT0098I WIT function witAddPart entered.

@@ -65,6 +65,10 @@
 #line 1 "../src/witParse.y" /* yacc.c:339  */
 
 //==============================================================================
+// WIT
+//
+// Based On:
+//==============================================================================
 // Constrained Materials Management and Production Planning Tool
 //
 // (C) Copyright IBM Corp. 1993, 2020  All Rights Reserved

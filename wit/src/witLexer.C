@@ -573,6 +573,10 @@ char *yytext_ptr;
 #line 1 "../src/witLexer.l"
 #line 2 "../src/witLexer.l"
 //==============================================================================
+// WIT
+//
+// Based On:
+//==============================================================================
 // Constrained Materials Management and Production Planning Tool
 //
 // (C) Copyright IBM Corp. 1993, 2020  All Rights Reserved

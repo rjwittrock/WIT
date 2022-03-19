@@ -6,7 +6,10 @@ WIT0338W One or more of the names given in the input is more than 12 characters
          long. This may cause overflows in the output fields.
          The longest name was: "Grilled_Cheese_Sandwich".
 
+=============================================================
+WIT
 
+Based On:
 =============================================================
 Licensed Materials - Property of IBM
 
@@ -19,14 +22,13 @@ Use, duplication or disclosure restricted by
 GSA ADP Schedule Contract with IBM Corp.
 =============================================================
 
-Constrained Materials Management and Production Planning Tool
 Release         9.0
-Build Date:     Sep 14 2020
+Build Date:     Mar 18 2022
 Build Type:     debug
 Platform:       linux
 COIN  Embedded? No
 CPLEX Embedded? Yes
-Run Started At: Mon Sep 14 19:44:09 2020
+Run Started At: Fri Mar 18 17:55:47 2022
 
 Reading the control parameters.
 Reading the input data.
@@ -71,7 +73,10 @@ WIT0106I The number of times warning messages will be displayed has been
          changed to 255.
 
 WIT0098I WIT function witInitialize entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -84,14 +89,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:09 2020
+         Run Started At: Fri Mar 18 17:55:47 2022
 
 
 WIT0098I WIT function witSetWit34Compatible entered.
@@ -2503,7 +2507,10 @@ WIT0098I WIT function witOptPreprocess entered.
 
 WIT0098I WIT function witDisplayData entered.
 WIT0100I The file "stdout" will be accessed.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -2516,14 +2523,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:09 2020
+         Run Started At: Fri Mar 18 17:55:47 2022
 
 
 WIT0468I Formatted Output of Input Data
@@ -4537,7 +4543,10 @@ WIT0098I WIT function witWriteData entered.
 WIT0100I The file "apiAll.data" will be accessed.
 
 WIT0098I WIT function witInitialize entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -4550,14 +4559,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:09 2020
+         Run Started At: Fri Mar 18 17:55:47 2022
 
 
 WIT0098I WIT function witSetWit34Compatible entered.
@@ -5386,7 +5394,10 @@ Idx  Crit     Crit  Dem     Dem  Ship
 
 
 WIT0098I WIT function witInitialize entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -5399,14 +5410,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:09 2020
+         Run Started At: Fri Mar 18 17:55:47 2022
 
 
 WIT0098I WIT function witSetWit34Compatible entered.
@@ -6128,7 +6138,10 @@ WIT0530I Sorting the parts and operations in BOM order.
 WIT0100I The file "obj1-test.data" will be accessed.
 
 WIT0098I WIT function witInitialize entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -6141,14 +6154,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:10 2020
+         Run Started At: Fri Mar 18 17:55:47 2022
 
 
 WIT0098I WIT function witReadData entered.
@@ -6314,7 +6326,10 @@ WIT0684I Maximum constraint violation in the current implosion solution: 0.
 WIT0708I This WitRun is now in a postprocessed state.
 
 WIT0098I WIT function witCopyData entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -6327,14 +6342,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:10 2020
+         Run Started At: Fri Mar 18 17:55:47 2022
 
 
 WIT0098I WIT function witGetNPeriods entered.
@@ -6353,7 +6367,10 @@ WIT0098I WIT function witCopyData entered.
 WIT0709I This WitRun is now in an unpostprocessed state.
 
 WIT0098I WIT function witInitialize entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -6366,21 +6383,23 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:10 2020
+         Run Started At: Fri Mar 18 17:55:47 2022
 
 
 WIT0098I WIT function witSetNPeriods entered.
 WIT0117I nPeriods changed from 26 to 5.
 
 WIT0098I WIT function witInitialize entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -6393,14 +6412,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:10 2020
+         Run Started At: Fri Mar 18 17:55:47 2022
 
 
 WIT0098I WIT function witSetNPeriods entered.
@@ -6735,7 +6753,10 @@ WIT0098I WIT function witGetOperationExists entered.
 WIT0098I WIT function witGetOperationExists entered.
 
 WIT0098I WIT function witCopyData entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -6748,14 +6769,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:10 2020
+         Run Started At: Fri Mar 18 17:55:47 2022
 
 
 WIT0098I WIT function witSetHighPrecisionWD entered.
@@ -6769,7 +6789,10 @@ WIT0155I Preprocessing.
 WIT0100I The file "opnTest.data" will be accessed.
 
 WIT0098I WIT function witInitialize entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -6782,14 +6805,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:10 2020
+         Run Started At: Fri Mar 18 17:55:47 2022
 
 
 WIT0098I WIT function witReadData entered.
@@ -6822,7 +6844,10 @@ endBounds;
 add part "part1" capacity;
 
 WIT0098I WIT function witInitialize entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -6835,14 +6860,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:10 2020
+         Run Started At: Fri Mar 18 17:55:47 2022
 
 
 WIT0098I WIT function witSetWit34Compatible entered.
@@ -7144,7 +7168,10 @@ WIT0529I BOP entry index is 0.
 WIT0155I Preprocessing.
 
 WIT0098I WIT function witInitialize entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -7157,14 +7184,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:10 2020
+         Run Started At: Fri Mar 18 17:55:48 2022
 
 
 WIT0098I WIT function witSetNPeriods entered.
@@ -7238,7 +7264,10 @@ WIT0524I A BOP entry for the production of part "partWithOperation" is being
          added to operation "partWithOperation"
 
 WIT0098I WIT function witInitialize entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -7251,14 +7280,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:10 2020
+         Run Started At: Fri Mar 18 17:55:48 2022
 
 
 WIT0098I WIT function witSetNPeriods entered.
@@ -7289,7 +7317,10 @@ WIT0524I A BOP entry for the production of part "partWithOperation" is being
 
 
 WIT0098I WIT function witInitialize entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -7302,14 +7333,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:10 2020
+         Run Started At: Fri Mar 18 17:55:48 2022
 
 
 WIT0098I WIT function witAddPart entered.
@@ -7388,7 +7418,10 @@ WIT0326I Part name is PC.
 
 
 WIT0098I WIT function witInitialize entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -7401,14 +7434,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:10 2020
+         Run Started At: Fri Mar 18 17:55:48 2022
 
 
 WIT0098I WIT function witReadData entered.
@@ -7509,7 +7541,10 @@ WIT0709I This WitRun is now in an unpostprocessed state.
 
 
 WIT0098I WIT function witInitialize entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -7522,14 +7557,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:10 2020
+         Run Started At: Fri Mar 18 17:55:48 2022
 
 
 WIT0098I WIT function witReadData entered.
@@ -7630,7 +7664,10 @@ WIT0709I This WitRun is now in an unpostprocessed state.
 
 
 WIT0098I WIT function witInitialize entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -7643,14 +7680,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:10 2020
+         Run Started At: Fri Mar 18 17:55:48 2022
 
 
 WIT0098I WIT function witReadData entered.
@@ -7747,7 +7783,10 @@ WIT0709I This WitRun is now in an unpostprocessed state.
 
 
 WIT0098I WIT function witInitialize entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -7760,14 +7799,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:10 2020
+         Run Started At: Fri Mar 18 17:55:48 2022
 
 
 WIT0098I WIT function witReadData entered.
@@ -7864,7 +7902,10 @@ WIT0709I This WitRun is now in an unpostprocessed state.
 
 
 WIT function witInitialize entered.
+=============================================================
+WIT
 
+Based On:
 =============================================================
 Licensed Materials - Property of IBM
 
@@ -7877,14 +7918,13 @@ Use, duplication or disclosure restricted by
 GSA ADP Schedule Contract with IBM Corp.
 =============================================================
 
-Constrained Materials Management and Production Planning Tool
 Release         9.0
-Build Date:     Sep 14 2020
+Build Date:     Mar 18 2022
 Build Type:     debug
 Platform:       linux
 COIN  Embedded? No
 CPLEX Embedded? Yes
-Run Started At: Mon Sep 14 19:44:10 2020
+Run Started At: Fri Mar 18 17:55:48 2022
 
 
 WIT function witSetWit34Allowed entered.
@@ -8044,7 +8084,10 @@ Operation name is C.
 selForDel changed from TRUE to FALSE.
 
 WIT0098I WIT function witCopyData entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -8057,19 +8100,21 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:10 2020
+         Run Started At: Fri Mar 18 17:55:48 2022
 
 Preprocessing.
 
 WIT function witInitialize entered.
+=============================================================
+WIT
 
+Based On:
 =============================================================
 Licensed Materials - Property of IBM
 
@@ -8082,14 +8127,13 @@ Use, duplication or disclosure restricted by
 GSA ADP Schedule Contract with IBM Corp.
 =============================================================
 
-Constrained Materials Management and Production Planning Tool
 Release         9.0
-Build Date:     Sep 14 2020
+Build Date:     Mar 18 2022
 Build Type:     debug
 Platform:       linux
 COIN  Embedded? No
 CPLEX Embedded? Yes
-Run Started At: Mon Sep 14 19:44:10 2020
+Run Started At: Fri Mar 18 17:55:48 2022
 
 
 WIT0098I WIT function witWriteData entered.
@@ -8101,7 +8145,10 @@ The file "delTest.data" will be accessed.
 
 WIT function witDisplayData entered.
 The file "stdout" will be accessed.
+=============================================================
+WIT
 
+Based On:
 =============================================================
 Licensed Materials - Property of IBM
 
@@ -8114,14 +8161,13 @@ Use, duplication or disclosure restricted by
 GSA ADP Schedule Contract with IBM Corp.
 =============================================================
 
-Constrained Materials Management and Production Planning Tool
 Release         9.0
-Build Date:     Sep 14 2020
+Build Date:     Mar 18 2022
 Build Type:     debug
 Platform:       linux
 COIN  Embedded? No
 CPLEX Embedded? Yes
-Run Started At: Mon Sep 14 19:44:10 2020
+Run Started At: Fri Mar 18 17:55:48 2022
 
 
 Formatted Output of Input Data
@@ -9303,7 +9349,10 @@ Object purge complete.
 
 WIT function witDisplayData entered.
 The file "stdout" will be accessed.
+=============================================================
+WIT
 
+Based On:
 =============================================================
 Licensed Materials - Property of IBM
 
@@ -9316,14 +9365,13 @@ Use, duplication or disclosure restricted by
 GSA ADP Schedule Contract with IBM Corp.
 =============================================================
 
-Constrained Materials Management and Production Planning Tool
 Release         9.0
-Build Date:     Sep 14 2020
+Build Date:     Mar 18 2022
 Build Type:     debug
 Platform:       linux
 COIN  Embedded? No
 CPLEX Embedded? Yes
-Run Started At: Mon Sep 14 19:44:10 2020
+Run Started At: Fri Mar 18 17:55:48 2022
 
 
 Formatted Output of Input Data
@@ -9847,7 +9895,10 @@ File "wit-a.log":
 
 
 WIT0098I WIT function witInitialize entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -9860,14 +9911,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:10 2020
+         Run Started At: Fri Mar 18 17:55:48 2022
 
 
 WIT0098I WIT function witReadData entered.
@@ -10006,7 +10056,10 @@ File "wit-b.log":
 
 
 WIT0098I WIT function witInitialize entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -10019,14 +10072,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:10 2020
+         Run Started At: Fri Mar 18 17:55:48 2022
 
 
 WIT0098I WIT function witReadData entered.
@@ -10136,7 +10188,10 @@ WIT0154I "Ham_and_Egg_Sandwich"    0        3.000
 WIT0154I "Ham_and_Egg_Sandwich"    1        4.000
 
 WIT0098I WIT function witInitialize entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -10149,14 +10204,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:10 2020
+         Run Started At: Fri Mar 18 17:55:48 2022
 
 
 WIT0098I WIT function witSetNPeriods entered.
@@ -10220,7 +10274,10 @@ WIT0098I WIT function witGetPostprocessed entered.
 WIT0120I postprocessed returned.
 
 WIT0098I WIT function witInitialize entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -10233,14 +10290,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:10 2020
+         Run Started At: Fri Mar 18 17:55:48 2022
 
 
 WIT0098I WIT function witSetNPeriods entered.
@@ -10539,7 +10595,10 @@ WIT0098I WIT function witGetExtOptActive entered.
 WIT0120I extOptActive returned.
 
 WIT0098I WIT function witInitialize entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -10552,14 +10611,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:10 2020
+         Run Started At: Fri Mar 18 17:55:48 2022
 
 
 WIT0098I WIT function witAddPart entered.
@@ -10759,7 +10817,10 @@ WIT0326I Part name is C.
 WIT0327I Demand name is G.
 
 WIT0098I WIT function witInitialize entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -10772,14 +10833,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:10 2020
+         Run Started At: Fri Mar 18 17:55:48 2022
 
 
 WIT0098I WIT function witAddPart entered.
@@ -10847,7 +10907,10 @@ WIT0327I Demand name is D.
 WIT0183I selForDel changed from FALSE to TRUE.
 
 WIT0098I WIT function witInitialize entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -10860,14 +10923,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:10 2020
+         Run Started At: Fri Mar 18 17:55:48 2022
 
 
 WIT0098I WIT function witAddPart entered.
@@ -11011,7 +11073,10 @@ WIT0326I Part name is B.
 WIT0327I Demand name is D.
 
 WIT0098I WIT function witInitialize entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -11024,14 +11089,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:10 2020
+         Run Started At: Fri Mar 18 17:55:48 2022
 
 
 WIT0098I WIT function witSetNPeriods entered.
@@ -11106,7 +11170,10 @@ A.shortVol =  600.000000 300.000000
 WIT0709I This WitRun is now in an unpostprocessed state.
 
 WIT0098I WIT function witInitialize entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -11119,14 +11186,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:10 2020
+         Run Started At: Fri Mar 18 17:55:48 2022
 
 
 WIT0098I WIT function witAddPart entered.
@@ -11173,7 +11239,10 @@ The following explodeable cycle was found:
    Part      A
 
 WIT function witInitialize entered.
+=============================================================
+WIT
 
+Based On:
 =============================================================
 Licensed Materials - Property of IBM
 
@@ -11186,14 +11255,13 @@ Use, duplication or disclosure restricted by
 GSA ADP Schedule Contract with IBM Corp.
 =============================================================
 
-Constrained Materials Management and Production Planning Tool
 Release         9.0
-Build Date:     Sep 14 2020
+Build Date:     Mar 18 2022
 Build Type:     debug
 Platform:       linux
 COIN  Embedded? No
 CPLEX Embedded? Yes
-Run Started At: Mon Sep 14 19:44:10 2020
+Run Started At: Fri Mar 18 17:55:48 2022
 
 
 WIT function witSetNPeriods entered.
@@ -11381,7 +11449,10 @@ currentScenario changed from 2 to 1.
 
 WIT function witDisplayData entered.
 The file "stdout" will be accessed.
+=============================================================
+WIT
 
+Based On:
 =============================================================
 Licensed Materials - Property of IBM
 
@@ -11394,14 +11465,13 @@ Use, duplication or disclosure restricted by
 GSA ADP Schedule Contract with IBM Corp.
 =============================================================
 
-Constrained Materials Management and Production Planning Tool
 Release         9.0
-Build Date:     Sep 14 2020
+Build Date:     Mar 18 2022
 Build Type:     debug
 Platform:       linux
 COIN  Embedded? No
 CPLEX Embedded? Yes
-Run Started At: Mon Sep 14 19:44:10 2020
+Run Started At: Fri Mar 18 17:55:48 2022
 
 
 Formatted Output of Input Data
@@ -12196,7 +12266,10 @@ Preprocessing.
 The file "stoch.data" will be accessed.
 
 WIT function witInitialize entered.
+=============================================================
+WIT
 
+Based On:
 =============================================================
 Licensed Materials - Property of IBM
 
@@ -12209,14 +12282,13 @@ Use, duplication or disclosure restricted by
 GSA ADP Schedule Contract with IBM Corp.
 =============================================================
 
-Constrained Materials Management and Production Planning Tool
 Release         9.0
-Build Date:     Sep 14 2020
+Build Date:     Mar 18 2022
 Build Type:     debug
 Platform:       linux
 COIN  Embedded? No
 CPLEX Embedded? Yes
-Run Started At: Mon Sep 14 19:44:10 2020
+Run Started At: Fri Mar 18 17:55:48 2022
 
 
 WIT function witReadData entered.
@@ -12243,7 +12315,10 @@ WIT function witDisplayData entered.
 The file "disp1.out" will be accessed.
 
 WIT function witInitialize entered.
+=============================================================
+WIT
 
+Based On:
 =============================================================
 Licensed Materials - Property of IBM
 
@@ -12256,18 +12331,20 @@ Use, duplication or disclosure restricted by
 GSA ADP Schedule Contract with IBM Corp.
 =============================================================
 
-Constrained Materials Management and Production Planning Tool
 Release         9.0
-Build Date:     Sep 14 2020
+Build Date:     Mar 18 2022
 Build Type:     debug
 Platform:       linux
 COIN  Embedded? No
 CPLEX Embedded? Yes
-Run Started At: Mon Sep 14 19:44:10 2020
+Run Started At: Fri Mar 18 17:55:48 2022
 
 
 WIT function witCopyData entered.
+=============================================================
+WIT
 
+Based On:
 =============================================================
 Licensed Materials - Property of IBM
 
@@ -12280,14 +12357,13 @@ Use, duplication or disclosure restricted by
 GSA ADP Schedule Contract with IBM Corp.
 =============================================================
 
-Constrained Materials Management and Production Planning Tool
 Release         9.0
-Build Date:     Sep 14 2020
+Build Date:     Mar 18 2022
 Build Type:     debug
 Platform:       linux
 COIN  Embedded? No
 CPLEX Embedded? Yes
-Run Started At: Mon Sep 14 19:44:10 2020
+Run Started At: Fri Mar 18 17:55:48 2022
 
 
 Entering stochastic mode.
@@ -12390,7 +12466,10 @@ Attribute supplyVol set to:
 Leaving stochastic mode.
 
 WIT0098I WIT function witInitialize entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -12403,14 +12482,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:10 2020
+         Run Started At: Fri Mar 18 17:55:48 2022
 
 
 WIT0098I WIT function witSetNPeriods entered.
@@ -12513,7 +12591,10 @@ WIT0174I Attribute demandVol set to:
 
 WIT0098I WIT function witDisplayData entered.
 WIT0100I The file "stdout" will be accessed.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -12526,14 +12607,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:10 2020
+         Run Started At: Fri Mar 18 17:55:48 2022
 
 
 WIT0468I Formatted Output of Input Data
@@ -13041,7 +13121,10 @@ WIT0929I Leaving stochastic mode.
 Preferred Solver: CPLEX
 
 WIT0098I WIT function witInitialize entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -13054,14 +13137,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:10 2020
+         Run Started At: Fri Mar 18 17:55:48 2022
 
 
 WIT0098I WIT function witSetPreferCoin entered.
@@ -13245,7 +13327,10 @@ WIT0174I Attribute cumShipReward set to:
                  23.000000   24.000000
 
 WIT0098I WIT function witCopyData entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -13258,14 +13343,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:10 2020
+         Run Started At: Fri Mar 18 17:55:48 2022
 
 WIT0155I Preprocessing.
 
@@ -13383,7 +13467,10 @@ WIT0120I objValue returned.
 WIT0709I This WitRun is now in an unpostprocessed state.
 
 WIT0098I WIT function witInitialize entered.
-WIT0097I 
+WIT0097I =============================================================
+         WIT
+         
+         Based On:
          =============================================================
          Licensed Materials - Property of IBM
          
@@ -13396,14 +13483,13 @@ WIT0097I
          GSA ADP Schedule Contract with IBM Corp.
          =============================================================
          
-         Constrained Materials Management and Production Planning Tool
          Release         9.0
-         Build Date:     Sep 14 2020
+         Build Date:     Mar 18 2022
          Build Type:     debug
          Platform:       linux
          COIN  Embedded? No
          CPLEX Embedded? Yes
-         Run Started At: Mon Sep 14 19:44:10 2020
+         Run Started At: Fri Mar 18 17:55:48 2022
 
 
 WIT0098I WIT function witSetNPeriods entered.

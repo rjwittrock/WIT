@@ -19,7 +19,7 @@
   * Windows SDK Platform for WIT
   * Explains how to work with (build, run, etc.) WIT on Windows.
 
-#### **Note:**
+#### **Note on wit-intro-2:**
 wit-intro-2 refers to WIT as "Watson Implosion Technology".
 Please note that WIT has nothing to do with **Watson**, IBM's portfolio of AI tools, applications and solutions.
 "Watson Implosion Technology" was simply the internal name for WIT before it became open-source.

@@ -12,39 +12,29 @@ Before IBM/CMMPPT became open-source, it was called "WIT". Consequently, "wit" a
 
 * **doc:**
   * Documentation
-  * Status: Mixed
 * **wit:**
   * WIT source code, build facilities, and some test code
-  * Status: Up-To-Date
 * **mcl:**
   * Message Class Library
   * Used by WIT and SCE for issuing messages (textual output)
   * Source code, build facilities, and test code
-  * Status: Up-To-Date
 * **config:**
   * Generic Makefiles used by WIT, MCL, and other programs in this project
-  * Status: Up-To-Date
 * **wit-sa-test:**
   * Data and scripts for testing WIT in Stand-Alone Executable mode.
-  * Status: Up-To-Date
 * **samples:**
   * Small example WIT application programs.
-  * Status: Mixed
 * **sce:**
   * Supply Capability Engine: A major WIT application program
   * Source code, build facilities, and test code
-  * Status: Up-To-Date
 * **scenario & witutil:**
   * Two class libraries used by SCE
   * Source code, build facilities, and test code
-  * Status: Up-To-Date
 * **witj:**
   * An object-oriented Java interface to WIT
   * Source code, build facilities, and test code
-  * Status: Out-Of-Date
 * **witviz:**
   * A visualization tool for WIT models
   * Source code, build facilities, and test code
   * Uses witj
-  * Status: Out-Of-Date
 
